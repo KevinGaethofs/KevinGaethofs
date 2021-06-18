@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinGaethofs
-- 👀 I’m interested in Webdevelopment, Real Estate, Music and DeFi  
+- 👀 I’m interested in Webdevelopment, Real Estate, Chess, Music and DeFi  
 - 🌱 I’m currently learning Nuxt.js
 - 💞️ I’m looking to collaborate on small open source projects 
 - 📫 How to reach me hi@kevingaethofs.be
