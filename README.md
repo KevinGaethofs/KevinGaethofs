@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @KevinGaethofs
-- 👀 I’m interested in Webdevelopment, Real Estate, Chess, Music and DeFi  
-- 💞️ I’m looking to collaborate on small open source projects 
-- 📫 How to reach me hi@kevingaethofs.be
-
-<!---
-KevinGaethofs/KevinGaethofs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <samp>
+    Building a Nuxt 3 Startup Template to help long term maintainability of individual projects with <a href="https://flamewerk.com">Flamewerk</a> 
+    <br>
+    <a href="https://kevingaethofs.be">Website</a> .
+    <a href="https://linkedin.com/in/kevin-gaethofs-54505428/">LinkedIn</a>
+  </samp>
+</p>
